@@ -49,6 +49,4 @@ for i in input(">> "):
 print(natija)
 
 
-
-
-man hozir git o'rgandim
+prin("salom")
