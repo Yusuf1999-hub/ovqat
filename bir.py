@@ -47,3 +47,8 @@ for i in input(">> "):
     else:
         natija += i
 print(natija)
+
+
+
+
+man hozir git o'rgandim
