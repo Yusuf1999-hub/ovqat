@@ -49,4 +49,4 @@ for i in input(">> "):
 print(natija)
 
 
-prin("salom")
+print("salom")
